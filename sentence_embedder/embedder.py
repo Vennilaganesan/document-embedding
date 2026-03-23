@@ -8,7 +8,7 @@ Supports multiple backends: SentenceTransformers and OpenAI.
 from __future__ import annotations
 
 import logging
-from typing import List, Union
+from typing import List
 
 import numpy as np
 
