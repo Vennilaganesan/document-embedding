@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+sentence_embedder.egg-info/PKG-INFO
+sentence_embedder.egg-info/SOURCES.txt
+sentence_embedder.egg-info/dependency_links.txt
+sentence_embedder.egg-info/requires.txt
+sentence_embedder.egg-info/top_level.txt
